@@ -1,0 +1,168 @@
+[
+  {
+    "Name_id": "nm0000939",
+    "name": "Adrian Biddle",
+    "birthYear": 1952,
+    "deathYear": 2005,
+    "professions": [
+      "cinematographer",
+      "camera_department"
+    ],
+    "knownForTitles": [
+      "tt0090605",
+      "tt0103074",
+      "tt0103594",
+      "tt0434409"
+    ]
+  },
+  {
+    "Name_id": "nm0068260",
+    "name": "Jamie Bell",
+    "birthYear": 1986,
+    "deathYear": null,
+    "professions": [
+      "actor",
+      "soundtrack",
+      "cinematographer"
+    ],
+    "knownForTitles": [
+      "tt2382009",
+      "tt0489099",
+      "tt0249462",
+      "tt1502712"
+    ]
+  },
+  {
+    "Name_id": "nm0412206",
+    "name": "Nikolay Ivasiv",
+    "birthYear": 1953,
+    "deathYear": 2016,
+    "professions": [
+      "cinematographer",
+      "camera_department"
+    ],
+    "knownForTitles": [
+      "tt0154877",
+      "tt3727780",
+      "tt5137206",
+      "tt2065015"
+    ]
+  },
+  {
+    "Name_id": "nm0699670",
+    "name": "Krzysztof Ptak",
+    "birthYear": 1954,
+    "deathYear": 2016,
+    "professions": [
+      "cinematographer",
+      "camera_department",
+      "miscellaneous"
+    ],
+    "knownForTitles": [
+      "tt0095464",
+      "tt1485698",
+      "tt0778749",
+      "tt0338949"
+    ]
+  },
+  {
+    "Name_id": "nm0722979",
+    "name": "Federico Ribes",
+    "birthYear": 1952,
+    "deathYear": 2017,
+    "professions": [
+      "cinematographer",
+      "camera_department",
+      "producer"
+    ],
+    "knownForTitles": [
+      "tt3132914",
+      "tt0294491",
+      "tt2416480",
+      "tt3886572"
+    ]
+  },
+  {
+    "Name_id": "nm1450965",
+    "name": "Damian Pietrasik",
+    "birthYear": 1972,
+    "deathYear": 2016,
+    "professions": [
+      "cinematographer",
+      "camera_department",
+      "actor"
+    ],
+    "knownForTitles": [
+      "tt1549838",
+      "tt0426272",
+      "tt0380650",
+      "tt1130842"
+    ]
+  },
+  {
+    "Name_id": "nm2969070",
+    "name": "Leonardo Val",
+    "birthYear": 1983,
+    "deathYear": null,
+    "professions": [
+      "cinematographer",
+      "camera_department",
+      "director"
+    ],
+    "knownForTitles": [
+      "tt1820518",
+      "tt5264352",
+      "tt2191822",
+      "tt1305904"
+    ]
+  },
+  {
+    "Name_id": "nm2985090",
+    "name": "Edreace Purmul",
+    "birthYear": 1983,
+    "deathYear": null,
+    "professions": [
+      "director",
+      "writer",
+      "cinematographer"
+    ],
+    "knownForTitles": [
+      "tt1220894",
+      "tt4460122"
+    ]
+  },
+  {
+    "Name_id": "nm4777170",
+    "name": "Prosenjit Chowdhury",
+    "birthYear": 1987,
+    "deathYear": null,
+    "professions": [
+      "cinematographer",
+      "writer",
+      "editor"
+    ],
+    "knownForTitles": [
+      "tt3648876",
+      "tt4518414",
+      "tt2113795",
+      "tt4935836"
+    ]
+  },
+  {
+    "Name_id": "nm7541803",
+    "name": "Ivan Yakovidish",
+    "birthYear": 1991,
+    "deathYear": null,
+    "professions": [
+      "actor",
+      "cinematographer",
+      "director"
+    ],
+    "knownForTitles": [
+      "tt6768550",
+      "tt5072930",
+      "tt5033000",
+      "tt5146204"
+    ]
+  }
+]

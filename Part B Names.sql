@@ -1,0 +1,10 @@
+INSERT INTO `names` VALUES ('nm0000939','Adrian Biddle',1952,2005,'cinematographer','camera_department',NULL,'tt0090605','tt0103074','tt0103594','tt0434409');
+INSERT INTO `names` VALUES ('nm0068260','Jamie Bell',1986,NULL,'actor','soundtrack','cinematographer','tt2382009','tt0489099','tt0249462','tt1502712');
+INSERT INTO `names` VALUES ('nm0412206','Nikolay Ivasiv',1953,2016,'cinematographer','camera_department',NULL,'tt0154877','tt3727780','tt5137206','tt2065015');
+INSERT INTO `names` VALUES ('nm0699670','Krzysztof Ptak',1954,2016,'cinematographer','camera_department','miscellaneous','tt0095464','tt1485698','tt0778749','tt0338949');
+INSERT INTO `names` VALUES ('nm0722979','Federico Ribes',1952,2017,'cinematographer','camera_department','producer','tt3132914','tt0294491','tt2416480','tt3886572');
+INSERT INTO `names` VALUES ('nm1450965','Damian Pietrasik',1972,2016,'cinematographer','camera_department','actor','tt1549838','tt0426272','tt0380650','tt1130842');
+INSERT INTO `names` VALUES ('nm2969070','Leonardo Val',1983,NULL,'cinematographer','camera_department','director','tt1820518','tt5264352','tt2191822','tt1305904');
+INSERT INTO `names` VALUES ('nm2985090','Edreace Purmul',1983,NULL,'director','writer','cinematographer','tt1220894','tt4460122',NULL,NULL);
+INSERT INTO `names` VALUES ('nm4777170','Prosenjit Chowdhury',1987,NULL,'cinematographer','writer','editor','tt3648876','tt4518414','tt2113795','tt4935836');
+INSERT INTO `names` VALUES ('nm7541803','Ivan Yakovidish',1991,NULL,'actor','cinematographer','director','tt6768550','tt5072930','tt5033000','tt5146204');
